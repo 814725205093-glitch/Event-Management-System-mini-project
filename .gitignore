@@ -1,0 +1,25 @@
+# Compiled C++ executables and object files
+
+*.exe
+*.o
+*.obj
+
+# Debugging files
+
+*.pdb
+*.ilk
+
+# Temporary and backup files
+
+*.tmp
+*.bak
+*~
+
+# IDE and editor settings
+
+.vscode/
+
+# Operating system files
+
+Thumbs.db
+.DS_Store
